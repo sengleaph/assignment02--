@@ -1,0 +1,24 @@
+*{
+    font-family: 'Kantumruy Pro', sans-serif;
+    color: blue;
+}
+h1{
+    text-align: center;
+    color: navy;
+    letter-spacing: 5px;
+    font-variant: normal;
+}
+p, i{
+    text-align: center;
+    font-size: larger;
+}
+.solo{
+    color: rgb(189, 64, 29);
+}
+#demo{
+    color: mediumslateblue;
+}
+@font-face{
+    font-family: suii;
+    src: 
+}

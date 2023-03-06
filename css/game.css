@@ -1,0 +1,56 @@
+body{
+    background-color: aliceblue;
+    color:rgb(212, 56, 212);
+    margin: 350px;
+}
+table{
+   text-align: center;
+   
+}
+
+td{
+    width: 110px;
+    height: 100px;
+    background-color:rgb(61, 174, 83);
+    color: rgb(9, 21, 62);
+    text-align: center;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+tr{
+    background-color: rgb(32, 56, 176);
+    font-size: 20px;
+    font-family: "Moulpali-Regular",serif;
+    width: 100px;
+    height: 50px;
+    color: rgb(255, 0, 0);
+}
+th{
+    font-size: 15px;
+    color: blue;
+}
+.img2{
+    background-image: url(../Font/9QDA.gif);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+.img1{
+    background-image: url(../Font/teacher.jpg);
+    background-size: contain;
+    color: rgb(255, 255, 255);
+}
+.color{
+    background-color: rgb(255, 60, 0);
+    color: aliceblue;
+}
+tr:hover{
+    background-color: rgb(255, 247, 0);
+}
+.border{
+    Border: 2px dotted rgb(149, 0, 255);
+}
+.border{
+    color: blue;
+}
+.jon{
+    color: brown;
+}
